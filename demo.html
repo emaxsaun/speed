@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Speed Test Page</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+<center>
+<script type="text/javascript" src="http://p.jwpcdn.com/6/7/jwplayer.js"></script>
+<div id="player"></div>
+<script type="text/javascript">
+jwplayer("player").setup({
+  playlist: [{
+    image: "http://content.bitsontherun.com/thumbs/i8oQD9zd-640.jpg",
+    sources: [{
+      file: "http://content.bitsontherun.com/videos/i8oQD9zd-kNspJqnJ.mp4"
+    },{
+      file: "http://content.bitsontherun.com/videos/i8oQD9zd-27m5HpIu.webm"
+    }]
+  }]
+});
+</script>
+<script src="speed.js"></script>
+</body>
+</html>
