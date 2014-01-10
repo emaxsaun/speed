@@ -19,7 +19,7 @@ jwplayer('player').setup({
 &nbsp;&nbsp;'image': &quot;video.jpg&quot;
 });
 &lt;/script&gt;
-&lt;script type=&quot;text/javascript&quot; src==&quot;speed.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;speed.js&quot;&gt;&lt;/script&gt;
 </pre>
 
 The source code is available for this plugin. There is just a .js file for JavaScript. Publishing the JavaScipt can be simply done with any text editor. Enjoy~! :) 
