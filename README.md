@@ -3,12 +3,15 @@ JW Player Speed Control
 
 This is a small JavaScript library for use with the JW Player. It creates five dock buttons on the player to control the playback rate (HTML5 mode only). Speeds are set to 1/4, 1/2, 1, 1.5X, 2X.
 
+### [Demo](http://www.pluginsbyethan.com/github/speed.html)
+
 Implementation:
+==========
 
 The file speed.js simply needs to be loaded unerneath the closing script tag for your JW Player embed. It is that simple. 
 
 Example:
-
+==========
 <pre>
 &lt;script type=&quot;text/javascript&quot; src=&quot;jwplayer.js&quot;&gt;&lt;/script&gt;
 &lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
