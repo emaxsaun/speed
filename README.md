@@ -8,7 +8,11 @@ This is a small JavaScript library for use with the JW Player. It creates five d
 Implementation:
 ==========
 
-The file speed.js simply needs to be loaded unerneath the closing script tag for your JW Player embed. It is that simple. 
+The file speed.js simply needs to be loaded unerneath the closing script tag for your JW Player embed. It is that simple. Like so:
+
+<pre>
+&lt;script type=&quot;text/javascript&quot; src=&quot;speed.js&quot;&gt;&lt;/script&gt;
+</pre>
 
 Example:
 ==========
