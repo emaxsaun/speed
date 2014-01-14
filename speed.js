@@ -92,7 +92,7 @@ jwplayer().onReady(function(){
 			jwplayer().seek(jwplayer().getPosition());
 			theVideo.playbackRate = 2.0;
 		}
-    },
+    }, 
     "2X"
 	);
 });
